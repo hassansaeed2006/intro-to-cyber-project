@@ -9,7 +9,7 @@
 ![2](https://github.com/user-attachments/assets/baf1599e-4d43-477c-b2bb-3893bbdaef7b)
 
 
-3- <a href="#"  onclick="alert('XSS')">  OFFERS!!!  </a>
+3- this is the payload(<a href="#"  onclick="alert('XSS')">  OFFERS!!!  </a>)
 
 
 ![3](https://github.com/user-attachments/assets/c5f49dfa-79d9-4c9d-a00a-07bbb9048728)
